@@ -7,11 +7,17 @@ BioMed DAR is a SSSO (Standard Systems Support Office) that provides clinical re
 
 On data security (See Figure 1), it is important to note that DAR does not store identifiable datasets and works with clinical data stakeholders to import only de-identified data into BII. Meanwhile, DAR operates within the BII ISO27001 certified environment for hosting its data warehousing, ETL processes and data sandboxes where strict SOP are in place to track data movement. Physically, the ISO27001 servers are located in designated server rooms where staff movement are logged and captured through CCTV. As an additional measure, the ISO27001 servers are caged up to pose further deterrence to the physical access of the disk drives.
 
-![Figure 1. DAR - Data Architecture.](/images/Figure1-DAR-Data-Architecture.png?raw=true)
+| ![Figure 1. DAR - Data Architecture.](/images/Figure1-DAR-Data-Architecture.png)  | 
+| :--------------: |
+| *Figure 1. DAR - Data Architecture.*  |
 
 On data governance (see Figure 2), data access of each cohort dataset needs to be approved by the respective cohort’s DAC (data access committee). This requires the project proposal to clearly define the purpose, scope and duration of the data usage and then subjected to a DAC review. Only upon DAC approval, the scoped dataset will then be ETLed (extract/transform/load) from DAR’s data warehouse to a designated VPN sandbox environment for its intended usage. Generally, no export of data will be allowed while the analysis results will need further approval by a data concierge team.
 
-![Figure 2. Data governance.](/images/Figure2-Data-governance.png)
+
+| ![Figure 2. Data governance.](/images/Figure2-Data-governance.png)  | 
+| :--------------: |
+| *Figure 2. Data governance.*  |
+
 
 
 
