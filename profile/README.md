@@ -1,6 +1,6 @@
 ## Biomedical Data Architecture & Repository
 
-![DAR - Data Architecture.](../images/Figure1-DAR-Data-Architecture.png)
+![DAR - Data Architecture.](https://github.com/BiomedDAR-Organisation/.github/blob/main/images/Figure1-DAR-Data-Architecture.png?raw=true)
 
 <!--
 
