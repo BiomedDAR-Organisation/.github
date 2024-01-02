@@ -1,4 +1,4 @@
-## Hi there 👋
+## Biomedical Data Architecture & Repository
 
 ![DAR - Data Architecture.](../images/Figure1-DAR-Data-Architecture.png)
 
