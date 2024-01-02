@@ -1,6 +1,6 @@
 ## Biomedical Data Architecture & Repository
  
- [Research](#Research) | [Members](#Members) | [Selected Publications](#SelectedPublications)
+ [Research](#Research) | [Members](#Members) | [Selected Publications](#selected-publications)
  
 ### Research
 BioMed DAR is a SSSO (Standard Systems Support Office) that provides clinical research data management support and governance framework to strategic A*STAR BMRC programmes; Briefly, DAR manages the data life cycle of the cohort datasets through 3 operatives - data governance, data management operations (cleaning, integration, cataloguing, movement, usage) and s/w development. DAR builds and uses its own in-house data warehouse, data catalogue, data visualizers and secured data exchange API libraries. In-house s/w builds allow us to adapt and integrate data management or governance workflow into our systems easily. Currently, DAR helps to host IAF programs like ATTRaCT, CaLiBre, WCIT and GUSTO. 
