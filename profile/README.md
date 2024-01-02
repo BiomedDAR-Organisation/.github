@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![DAR - Data Architecture.](../images/Figure1-DAR-Data-Architecture.png)
+
 <!--
 
 **Here are some ideas to get you started:**
