@@ -34,6 +34,8 @@ On data governance (see Figure 2), data access of each cohort dataset needs to b
 | **Project Manager**  | FUN Max  |
 | **Assistant Systems Manager**  | LIM Aloysius  |
 | **Software Engineer**  | KOH Zi Ying  |
+| **Software Engineer**  | KWOK Jia Hui |
+| **Software Engineer**  | LEE John     |
 
 </details>
 <details>
